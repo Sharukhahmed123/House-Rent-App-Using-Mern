@@ -5,7 +5,7 @@ The **House Rent App** is a comprehensive MERN (MongoDB, Express.js, React.js, N
 ---
 
 ## 📚 Table of Contents  
-1. [Core Features](#core-features)  
+1. [Core Features](## 🌟 **Core Features)  
 2. [Tech Stack](#tech-stack)  
 3. [Team Members](#team-members)  
 4. [Work Assignments](#work-assignments)  
