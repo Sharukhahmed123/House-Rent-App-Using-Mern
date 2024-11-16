@@ -5,7 +5,7 @@ The **House Rent App** is a comprehensive MERN (MongoDB, Express.js, React.js, N
 ---
 
 ## 📚 Table of Contents  
-1. [Core Features](#Core-Features) 
+1. [Core Features](#core-features)  
 2. [Tech Stack](#tech-stack)  
 3. [Team Members](#team-members)  
 4. [Work Assignments](#work-assignments)  
@@ -36,7 +36,7 @@ The **House Rent App** is a comprehensive MERN (MongoDB, Express.js, React.js, N
 ## 👨‍💻 **Team Members**  
 - **[Shaik Sharukh Ahmed](https://github.com/Sharukhahmed123)** *(Team Leader)*  
   - Role: Project coordination, backend architecture, and MongoDB integration.  
-- **[Saai Krahaanth](https://github.com/SaaiKrahaanth)**  
+- **[Saai Krahaanth](https://github.com/your-github-username)**  
   - Role: Full-stack development and real-time chat system integration.  
 - **[Salman Khan](https://github.com/your-github-username)**  
   - Role: Frontend design and React.js implementation.  
@@ -123,3 +123,4 @@ The **House Rent App** is a comprehensive MERN (MongoDB, Express.js, React.js, N
 
 Feel free to contribute, raise issues, or suggest improvements. Together, let’s redefine the rental experience! ✨  
 ```
+
