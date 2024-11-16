@@ -1,11 +1,21 @@
-
 # House Rent App - MERN Stack Project 🚀  
 
 The **House Rent App** is a comprehensive MERN (MongoDB, Express.js, React.js, Node.js) stack application developed to streamline the rental experience for tenants and landlords. It offers an intuitive platform for property management and efficient communication.  
 
 ---
 
-## 🌟 **Core Features**
+## 📚 Table of Contents  
+1. [Core Features](#core-features)  
+2. [Tech Stack](#tech-stack)  
+3. [Team Members](#team-members)  
+4. [Work Assignments](#work-assignments)  
+5. [How to Run Locally](#how-to-run-locally)  
+6. [Future Enhancements](#future-enhancements)  
+7. [Repository Link](#repository-link)  
+
+---
+
+## 🌟 **Core Features**  
 - **User-Friendly Interface**: Seamless navigation across devices.  
 - **Real-Time Chat**: Integrated chat feature for instant communication.  
 - **Property Listings**: Add, view, and manage properties effortlessly.  
@@ -15,7 +25,7 @@ The **House Rent App** is a comprehensive MERN (MongoDB, Express.js, React.js, N
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**  
 - **Frontend**: React.js and Tailwind CSS.  
 - **Backend**: Node.js and Express.js.  
 - **Database**: MongoDB Atlas.  
@@ -23,10 +33,10 @@ The **House Rent App** is a comprehensive MERN (MongoDB, Express.js, React.js, N
 
 ---
 
-## 👨‍💻 **Team Members**
+## 👨‍💻 **Team Members**  
 - **[Shaik Sharukh Ahmed](https://github.com/Sharukhahmed123)** *(Team Leader)*  
   - Role: Project coordination, backend architecture, and MongoDB integration.  
-- **[Saai Krahaanth](https://github.com/your-github-username)**  
+- **[Saai Krahaanth](https://github.com/SaaiKrahaanth)**  
   - Role: Full-stack development and real-time chat system integration.  
 - **[Salman Khan](https://github.com/your-github-username)**  
   - Role: Frontend design and React.js implementation.  
@@ -56,7 +66,7 @@ The **House Rent App** is a comprehensive MERN (MongoDB, Express.js, React.js, N
 
 ---
 
-## 🚀 **How to Run Locally**
+## 🚀 **How to Run Locally**  
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/Sharukhahmed123/House-Rent-App-Using-Mern.git
@@ -101,14 +111,14 @@ The **House Rent App** is a comprehensive MERN (MongoDB, Express.js, React.js, N
 
 ---
 
-## 🌈 **Future Enhancements**
+## 🌈 **Future Enhancements**  
 - Integration of payment gateways for secure transactions.  
 - Admin dashboard for property analytics and insights.  
 - Notifications and alerts for user updates.  
 
 ---
 
-## 🌐 **Repository Link**
+## 🌐 **Repository Link**  
 [House Rent App - Using MERN](https://github.com/Sharukhahmed123/House-Rent-App-Using-Mern.git)  
 
 Feel free to contribute, raise issues, or suggest improvements. Together, let’s redefine the rental experience! ✨  
